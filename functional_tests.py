@@ -47,6 +47,7 @@ class NewVisitorTest(unittest.TestCase):
 		self.fail('Finish the test!')
 
 
+
 # The page updates again, and now shows both items on her list
 
 # Edith wonders whether the site will remember her list. 
