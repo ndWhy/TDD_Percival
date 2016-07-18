@@ -44,7 +44,4 @@ if __name__ == '__main__':
 	unittest.main(warnings='ignore')
 
 
-<<<<<<< HEAD
-assert 'Django' in browser.title 
-=======
->>>>>>> chapter02
+
